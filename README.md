@@ -1,3 +1,4 @@
+By Sathvik I Bhat
 # Getting started with Github
 
 ## Submission Procedure
