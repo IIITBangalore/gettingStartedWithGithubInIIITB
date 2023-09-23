@@ -7,19 +7,19 @@
 	  from Rajasthan Institute of Engineering and Technology, Jaipur.
 	  
 	- Schooling from Jawahar Navodaya Vidyalaya, Gautam Buddha Nagar.
-
+	
 	- Skill Set:
-		- 🔭 I’m currently working on N-Dimensional Games (3D and 4D)
-		- 🌱 I’m currently learning OpenCV, Website Hosting and Machine Learning
+		- 🔭 I’m working on Dark Websites (Flask) and .onion/ Hosting
+		- 🌱 I’m currently learning OpenCV and Machine Learning
 		- 👯 I’m looking to collaborate on Flask based Projects
-
+	
+		- 🐍  Creating games like Minecraft Python Edition (Ursina)
 		- 🤔 I’m looking for help with Machine Learning Algorithms
 		- 💬 Ask me about Python and Mathematics
-		- 🐍 I’m working on Minecraft Game (Ursina)
 		- 🎮 I like to play NFS, JC2 and Minecraft
-
+	
 	- ✨ Innovation: Home Automation
 	- 😄 Pronouns: Hey Vicks!
- 	- 🖼️ Hobbies: Sketching and Video Editing
+	- 🖼️ Hobbies: Sketching and Video Editing
 	- ⚡ Fun fact: I like conversation in Memes Language
  
